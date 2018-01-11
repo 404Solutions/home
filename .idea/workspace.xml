@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="938ea7a2-9eac-4b07-ae95-bb0f54ed44cb" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about-img2.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/favicon.png" afterPath="$PROJECT_DIR$/img/favicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/apple-touch-icon.png" afterPath="$PROJECT_DIR$/img/apple-touch-icon.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -289,12 +284,12 @@
       <workItem from="1515611804780" duration="2270000" />
       <workItem from="1515614988806" duration="555000" />
       <workItem from="1515627346392" duration="3556000" />
-      <workItem from="1515680211798" duration="7235000" />
+      <workItem from="1515680211798" duration="7859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15909000" />
+    <option name="totallyTimeSpent" value="16533000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="-4" width="1920" height="1037" extended-state="6" />
